@@ -1,0 +1,26 @@
+h1, h2, p {
+    color: white; 
+}
+
+h3 {
+    color: #3BAFDA;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+li {
+    color: #4FC1E9;
+}
+
+body {
+    background-color: #333031;
+}
+
+.span-title {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
